@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "247546862910",
+    "firebase_url": "https://gitapp-71a09.firebaseio.com",
+    "project_id": "gitapp-71a09",
+    "storage_bucket": "gitapp-71a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247546862910:android:5316a7bb917cc9f4",
+        "android_client_info": {
+          "package_name": "com.suhaas.gitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247546862910-1mqodpv5rqu1cgkfj27kmevcr697sakh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suhaas.gitapp",
+            "certificate_hash": "249440C3295CF9BF6BD97DC59D0987F44E8068DF"
+          }
+        },
+        {
+          "client_id": "247546862910-i7bs6luvm8pcts9ut4d92q75nrilk95i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{"current_key" : "AIzaSyATxnk9KBB1aaJ662hgqSZ9ZIJz7cz7fUA"}],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247546862910-i7bs6luvm8pcts9ut4d92q75nrilk95i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
